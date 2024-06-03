@@ -1,4 +1,3 @@
-# TODO
 
 * [x] Find a Stock API
 <!-- * [ ] MAYBE
